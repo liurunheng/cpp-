@@ -1,1 +1,1 @@
-# C-_Template-Metaprogramming_homework
+# study_of_cpp_template-metaprogramming
